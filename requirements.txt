@@ -1,0 +1,12 @@
+# Python 3.10 veya 3.11 önerilir.
+streamlit>=1.38.0
+ultralytics>=8.3.0
+torch>=2.2.0
+torchvision>=0.17.0
+opencv-python>=4.9.0
+pillow>=10.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+plotly>=5.20.0
+python-dotenv>=1.0.0
+imageio-ffmpeg>=0.4.9
