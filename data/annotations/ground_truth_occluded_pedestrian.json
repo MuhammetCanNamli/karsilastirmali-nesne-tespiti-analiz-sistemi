@@ -1,0 +1,27 @@
+[
+  { "class_name": "traffic light", "box": [75, 238, 269, 571] },
+  { "class_name": "traffic light", "box": [37, 556, 201, 815] },
+  { "class_name": "traffic light", "box": [692, 580, 748, 673] },
+  { "class_name": "traffic light", "box": [1030, 622, 1098, 738] },
+
+  { "class_name": "person", "box": [4, 1196, 507, 1830] },
+  { "class_name": "person", "box": [531, 1106, 835, 1820] },
+  { "class_name": "person", "box": [832, 1150, 1115, 1838] },
+  { "class_name": "person", "box": [984, 768, 1365, 1838] },
+
+  { "class_name": "person", "box": [193, 852, 271, 908] },
+  { "class_name": "person", "box": [283, 852, 325, 937] },
+  { "class_name": "person", "box": [325, 936, 405, 988] },
+  { "class_name": "person", "box": [439, 936, 547, 1044] },
+  { "class_name": "person", "box": [473, 888, 529, 1044] },
+  { "class_name": "person", "box": [507, 850, 585, 943] },
+  { "class_name": "person", "box": [592, 852, 670, 1044] },
+  { "class_name": "person", "box": [648, 760, 722, 935] },
+  { "class_name": "person", "box": [703, 860, 755, 1091] },
+  { "class_name": "person", "box": [754, 894, 805, 1043] },
+  { "class_name": "person", "box": [818, 990, 863, 1060] },
+  { "class_name": "person", "box": [863, 990, 941, 1060] },
+  { "class_name": "person", "box": [1130, 880, 1229, 1002] },
+  { "class_name": "person", "box": [1130, 1002, 1229, 1156] },
+  { "class_name": "person", "box": [1240, 768, 1332, 940] }
+]

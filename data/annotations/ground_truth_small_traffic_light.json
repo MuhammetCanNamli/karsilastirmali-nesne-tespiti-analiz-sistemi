@@ -1,0 +1,17 @@
+[
+  { "class_name": "traffic light", "box": [650, 510, 780, 860] },
+  { "class_name": "traffic light", "box": [30, 560, 160, 900] },
+  { "class_name": "traffic light", "box": [1085, 515, 1225, 855] },
+  { "class_name": "bus", "box": [1090, 1700, 1150, 1770] },
+  { "class_name": "car", "box": [1162, 1705, 1208, 1755] },
+  { "class_name": "car", "box": [1212, 1698, 1268, 1760] },
+  { "class_name": "car", "box": [1280, 1710, 1326, 1762] },
+  { "class_name": "car", "box": [1327, 1692, 1385, 1758] },
+  { "class_name": "car", "box": [1400, 1682, 1452, 1744] },
+  { "class_name": "car", "box": [1455, 1662, 1510, 1720] },
+  { "class_name": "traffic light", "box": [1045, 1615, 1070, 1660] },
+  { "class_name": "traffic light", "box": [1276, 1632, 1297, 1672] },
+  { "class_name": "traffic light", "box": [1333, 1635, 1352, 1675] },
+  { "class_name": "traffic light", "box": [1360, 1635, 1375, 1660] },
+  { "class_name": "traffic light", "box": [1412, 1612, 1430, 1655] }
+]
