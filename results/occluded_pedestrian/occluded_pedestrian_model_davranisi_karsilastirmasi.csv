@@ -1,0 +1,37 @@
+﻿,class,status,iou,model_a_score,model_b_score,interpretation
+0,person,matched,0.971,0.899,0.995,Both models detect the same object.
+1,person,matched,0.973,0.673,0.987,Both models detect the same object.
+2,person,matched,0.946,0.615,0.983,Both models detect the same object.
+3,person,matched,0.772,0.615,0.971,Both models detect the same object.
+4,person,matched,0.966,0.582,0.993,Both models detect the same object.
+5,traffic light,matched,0.689,0.517,0.919,Both models detect the same object.
+6,person,matched,0.9,0.512,0.92,Both models detect the same object.
+7,person,matched,0.921,0.468,0.975,Both models detect the same object.
+8,person,matched,0.774,0.397,0.902,Both models detect the same object.
+9,person,matched,0.856,0.396,0.887,Both models detect the same object.
+10,person,matched,0.828,0.378,0.848,Both models detect the same object.
+11,person,model_b_only,0,,0.846,Candidate FP for model B or candidate FN for model A.
+12,person,model_b_only,0,,0.843,Candidate FP for model B or candidate FN for model A.
+13,person,model_b_only,0,,0.84,Candidate FP for model B or candidate FN for model A.
+14,traffic light,model_b_only,0,,0.839,Candidate FP for model B or candidate FN for model A.
+15,person,model_b_only,0,,0.834,Candidate FP for model B or candidate FN for model A.
+16,person,model_b_only,0,,0.783,Candidate FP for model B or candidate FN for model A.
+17,person,model_b_only,0,,0.767,Candidate FP for model B or candidate FN for model A.
+18,person,model_b_only,0,,0.752,Candidate FP for model B or candidate FN for model A.
+19,person,model_b_only,0,,0.739,Candidate FP for model B or candidate FN for model A.
+20,person,model_b_only,0,,0.716,Candidate FP for model B or candidate FN for model A.
+21,person,model_b_only,0,,0.697,Candidate FP for model B or candidate FN for model A.
+22,person,model_b_only,0,,0.655,Candidate FP for model B or candidate FN for model A.
+23,person,model_b_only,0,,0.647,Candidate FP for model B or candidate FN for model A.
+24,person,model_b_only,0,,0.646,Candidate FP for model B or candidate FN for model A.
+25,person,model_b_only,0,,0.621,Candidate FP for model B or candidate FN for model A.
+26,person,model_b_only,0,,0.618,Candidate FP for model B or candidate FN for model A.
+27,person,model_b_only,0,,0.568,Candidate FP for model B or candidate FN for model A.
+28,person,model_b_only,0,,0.558,Candidate FP for model B or candidate FN for model A.
+29,person,model_b_only,0,,0.542,Candidate FP for model B or candidate FN for model A.
+30,person,model_b_only,0,,0.494,Candidate FP for model B or candidate FN for model A.
+31,person,model_b_only,0,,0.46,Candidate FP for model B or candidate FN for model A.
+32,person,model_b_only,0,,0.449,Candidate FP for model B or candidate FN for model A.
+33,person,model_b_only,0,,0.431,Candidate FP for model B or candidate FN for model A.
+34,person,model_b_only,0,,0.375,Candidate FP for model B or candidate FN for model A.
+35,person,model_b_only,0,,0.305,Candidate FP for model B or candidate FN for model A.

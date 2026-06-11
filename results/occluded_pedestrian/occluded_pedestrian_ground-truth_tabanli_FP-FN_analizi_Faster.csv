@@ -1,0 +1,60 @@
+﻿,model,class,status,iou,score
+0,Faster R-CNN,person,FP,0,0.995
+1,Faster R-CNN,person,FP,0,0.993
+2,Faster R-CNN,person,FP,0,0.987
+3,Faster R-CNN,person,FP,0,0.983
+4,Faster R-CNN,person,FP,0,0.975
+5,Faster R-CNN,person,FP,0,0.971
+6,Faster R-CNN,person,FP,0,0.92
+7,Faster R-CNN,traffic light,FP,0,0.919
+8,Faster R-CNN,person,FP,0,0.902
+9,Faster R-CNN,person,FP,0,0.887
+10,Faster R-CNN,person,FP,0,0.848
+11,Faster R-CNN,person,FP,0,0.846
+12,Faster R-CNN,person,FP,0,0.843
+13,Faster R-CNN,person,FP,0,0.84
+14,Faster R-CNN,traffic light,FP,0,0.839
+15,Faster R-CNN,person,FP,0,0.834
+16,Faster R-CNN,person,FP,0,0.783
+17,Faster R-CNN,person,FP,0,0.767
+18,Faster R-CNN,person,FP,0,0.752
+19,Faster R-CNN,person,FP,0,0.739
+20,Faster R-CNN,person,FP,0,0.716
+21,Faster R-CNN,person,FP,0,0.697
+22,Faster R-CNN,person,FP,0,0.655
+23,Faster R-CNN,person,FP,0,0.647
+24,Faster R-CNN,person,FP,0,0.646
+25,Faster R-CNN,person,FP,0,0.621
+26,Faster R-CNN,person,FP,0,0.618
+27,Faster R-CNN,person,FP,0,0.568
+28,Faster R-CNN,person,FP,0,0.558
+29,Faster R-CNN,person,FP,0,0.542
+30,Faster R-CNN,person,FP,0,0.494
+31,Faster R-CNN,person,FP,0,0.46
+32,Faster R-CNN,person,FP,0,0.449
+33,Faster R-CNN,person,FP,0,0.431
+34,Faster R-CNN,person,FP,0,0.375
+35,Faster R-CNN,person,FP,0,0.305
+36,-,traffic light,FN,0,
+37,-,traffic light,FN,0,
+38,-,traffic light,FN,0,
+39,-,traffic light,FN,0,
+40,-,person,FN,0,
+41,-,person,FN,0,
+42,-,person,FN,0,
+43,-,person,FN,0,
+44,-,person,FN,0,
+45,-,person,FN,0,
+46,-,person,FN,0,
+47,-,person,FN,0,
+48,-,person,FN,0,
+49,-,person,FN,0,
+50,-,person,FN,0,
+51,-,person,FN,0,
+52,-,person,FN,0,
+53,-,person,FN,0,
+54,-,person,FN,0,
+55,-,person,FN,0,
+56,-,person,FN,0,
+57,-,person,FN,0,
+58,-,person,FN,0,

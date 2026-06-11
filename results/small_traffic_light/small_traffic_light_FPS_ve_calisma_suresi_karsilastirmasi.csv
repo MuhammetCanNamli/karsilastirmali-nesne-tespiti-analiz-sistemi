@@ -1,0 +1,3 @@
+﻿,model,detections,avg_confidence,small_objects,runtime_s,fps_estimate
+0,YOLOv8n,4,0.542,2,0.0936,10.68
+1,Faster R-CNN,19,0.733,16,2.007,0.5

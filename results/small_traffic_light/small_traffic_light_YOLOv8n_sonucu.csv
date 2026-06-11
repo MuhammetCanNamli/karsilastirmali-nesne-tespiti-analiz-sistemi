@@ -1,0 +1,5 @@
+﻿,model,class,score,area_px,small_object,box
+0,YOLOv8n,traffic light,0.829,78486.7,false,"803.4,682.2,986.2,1111.6"
+1,YOLOv8n,traffic light,0.695,75565.2,false,"1354.4,679.6,1533.8,1100.7"
+2,YOLOv8n,car,0.329,7378.4,true,"1597.7,2171.3,1699.7,2243.6"
+3,YOLOv8n,car,0.317,6188.6,true,"1444.4,2175.1,1530.6,2246.9"

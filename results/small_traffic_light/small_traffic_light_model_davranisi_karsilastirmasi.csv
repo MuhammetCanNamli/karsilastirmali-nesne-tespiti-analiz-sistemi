@@ -1,0 +1,20 @@
+﻿,class,status,iou,model_a_score,model_b_score,interpretation
+0,traffic light,matched,0.925,0.829,0.986,Both models detect the same object.
+1,traffic light,matched,0.949,0.695,0.981,Both models detect the same object.
+2,car,matched,0.785,0.329,0.973,Both models detect the same object.
+3,car,matched,0.747,0.317,0.976,Both models detect the same object.
+4,traffic light,model_b_only,0,,0.991,Candidate FP for model B or candidate FN for model A.
+5,car,model_b_only,0,,0.928,Candidate FP for model B or candidate FN for model A.
+6,car,model_b_only,0,,0.915,Candidate FP for model B or candidate FN for model A.
+7,traffic light,model_b_only,0,,0.884,Candidate FP for model B or candidate FN for model A.
+8,car,model_b_only,0,,0.839,Candidate FP for model B or candidate FN for model A.
+9,traffic light,model_b_only,0,,0.797,Candidate FP for model B or candidate FN for model A.
+10,bus,model_b_only,0,,0.74,Candidate FP for model B or candidate FN for model A.
+11,car,model_b_only,0,,0.727,Candidate FP for model B or candidate FN for model A.
+12,traffic light,model_b_only,0,,0.688,Candidate FP for model B or candidate FN for model A.
+13,car,model_b_only,0,,0.503,Candidate FP for model B or candidate FN for model A.
+14,traffic light,model_b_only,0,,0.49,Candidate FP for model B or candidate FN for model A.
+15,traffic light,model_b_only,0,,0.438,Candidate FP for model B or candidate FN for model A.
+16,car,model_b_only,0,,0.413,Candidate FP for model B or candidate FN for model A.
+17,traffic light,model_b_only,0,,0.336,Candidate FP for model B or candidate FN for model A.
+18,traffic light,model_b_only,0,,0.319,Candidate FP for model B or candidate FN for model A.

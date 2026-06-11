@@ -1,0 +1,53 @@
+﻿,class,status,iou,model_a_score,model_b_score,interpretation
+0,car,matched,0.866,0.808,0.987,Both models detect the same object.
+1,bus,matched,0.931,0.661,0.345,Both models detect the same object.
+2,car,matched,0.911,0.624,0.896,Both models detect the same object.
+3,car,matched,0.833,0.604,0.996,Both models detect the same object.
+4,car,matched,0.94,0.547,0.965,Both models detect the same object.
+5,car,matched,0.878,0.467,0.904,Both models detect the same object.
+6,car,matched,0.86,0.465,0.982,Both models detect the same object.
+7,car,matched,0.791,0.462,0.946,Both models detect the same object.
+8,car,matched,0.942,0.4,0.981,Both models detect the same object.
+9,car,matched,0.814,0.352,0.686,Both models detect the same object.
+10,truck,model_a_only,0,0.324,,Candidate FP for model A or candidate FN for model B.
+11,truck,matched,0.899,0.304,0.438,Both models detect the same object.
+12,car,model_b_only,0,,0.988,Candidate FP for model B or candidate FN for model A.
+13,car,model_b_only,0,,0.943,Candidate FP for model B or candidate FN for model A.
+14,car,model_b_only,0,,0.92,Candidate FP for model B or candidate FN for model A.
+15,car,model_b_only,0,,0.869,Candidate FP for model B or candidate FN for model A.
+16,car,model_b_only,0,,0.864,Candidate FP for model B or candidate FN for model A.
+17,car,model_b_only,0,,0.846,Candidate FP for model B or candidate FN for model A.
+18,car,model_b_only,0,,0.823,Candidate FP for model B or candidate FN for model A.
+19,car,model_b_only,0,,0.818,Candidate FP for model B or candidate FN for model A.
+20,car,model_b_only,0,,0.785,Candidate FP for model B or candidate FN for model A.
+21,car,model_b_only,0,,0.784,Candidate FP for model B or candidate FN for model A.
+22,car,model_b_only,0,,0.737,Candidate FP for model B or candidate FN for model A.
+23,car,model_b_only,0,,0.714,Candidate FP for model B or candidate FN for model A.
+24,car,model_b_only,0,,0.699,Candidate FP for model B or candidate FN for model A.
+25,car,model_b_only,0,,0.69,Candidate FP for model B or candidate FN for model A.
+26,car,model_b_only,0,,0.673,Candidate FP for model B or candidate FN for model A.
+27,car,model_b_only,0,,0.666,Candidate FP for model B or candidate FN for model A.
+28,car,model_b_only,0,,0.652,Candidate FP for model B or candidate FN for model A.
+29,car,model_b_only,0,,0.644,Candidate FP for model B or candidate FN for model A.
+30,car,model_b_only,0,,0.617,Candidate FP for model B or candidate FN for model A.
+31,car,model_b_only,0,,0.59,Candidate FP for model B or candidate FN for model A.
+32,car,model_b_only,0,,0.57,Candidate FP for model B or candidate FN for model A.
+33,traffic light,model_b_only,0,,0.566,Candidate FP for model B or candidate FN for model A.
+34,car,model_b_only,0,,0.536,Candidate FP for model B or candidate FN for model A.
+35,car,model_b_only,0,,0.522,Candidate FP for model B or candidate FN for model A.
+36,car,model_b_only,0,,0.489,Candidate FP for model B or candidate FN for model A.
+37,car,model_b_only,0,,0.44,Candidate FP for model B or candidate FN for model A.
+38,car,model_b_only,0,,0.435,Candidate FP for model B or candidate FN for model A.
+39,car,model_b_only,0,,0.417,Candidate FP for model B or candidate FN for model A.
+40,car,model_b_only,0,,0.402,Candidate FP for model B or candidate FN for model A.
+41,car,model_b_only,0,,0.397,Candidate FP for model B or candidate FN for model A.
+42,car,model_b_only,0,,0.384,Candidate FP for model B or candidate FN for model A.
+43,car,model_b_only,0,,0.34,Candidate FP for model B or candidate FN for model A.
+44,car,model_b_only,0,,0.332,Candidate FP for model B or candidate FN for model A.
+45,car,model_b_only,0,,0.329,Candidate FP for model B or candidate FN for model A.
+46,car,model_b_only,0,,0.329,Candidate FP for model B or candidate FN for model A.
+47,truck,model_b_only,0,,0.326,Candidate FP for model B or candidate FN for model A.
+48,car,model_b_only,0,,0.313,Candidate FP for model B or candidate FN for model A.
+49,car,model_b_only,0,,0.308,Candidate FP for model B or candidate FN for model A.
+50,car,model_b_only,0,,0.307,Candidate FP for model B or candidate FN for model A.
+51,truck,model_b_only,0,,0.306,Candidate FP for model B or candidate FN for model A.

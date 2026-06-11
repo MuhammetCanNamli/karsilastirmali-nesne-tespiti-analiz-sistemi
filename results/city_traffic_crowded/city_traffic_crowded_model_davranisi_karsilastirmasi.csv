@@ -1,0 +1,70 @@
+﻿,class,status,iou,model_a_score,model_b_score,interpretation
+0,car,matched,0.908,0.933,0.996,Both models detect the same object.
+1,car,matched,0.914,0.922,0.971,Both models detect the same object.
+2,car,matched,0.843,0.855,0.991,Both models detect the same object.
+3,car,matched,0.906,0.82,0.992,Both models detect the same object.
+4,car,matched,0.888,0.808,0.976,Both models detect the same object.
+5,car,matched,0.82,0.785,0.993,Both models detect the same object.
+6,car,matched,0.939,0.782,0.962,Both models detect the same object.
+7,car,matched,0.954,0.778,0.983,Both models detect the same object.
+8,car,matched,0.859,0.776,0.988,Both models detect the same object.
+9,car,matched,0.95,0.714,0.976,Both models detect the same object.
+10,car,matched,0.851,0.706,0.98,Both models detect the same object.
+11,car,matched,0.777,0.702,0.966,Both models detect the same object.
+12,car,matched,0.889,0.678,0.961,Both models detect the same object.
+13,car,matched,0.902,0.663,0.979,Both models detect the same object.
+14,car,matched,0.809,0.656,0.941,Both models detect the same object.
+15,car,matched,0.894,0.653,0.914,Both models detect the same object.
+16,car,matched,0.705,0.647,0.775,Both models detect the same object.
+17,car,matched,0.802,0.644,0.977,Both models detect the same object.
+18,car,matched,0.671,0.61,0.866,Both models detect the same object.
+19,truck,matched,0.793,0.591,0.79,Both models detect the same object.
+20,car,matched,0.884,0.586,0.988,Both models detect the same object.
+21,car,matched,0.599,0.57,0.841,Both models detect the same object.
+22,car,matched,0.789,0.563,0.418,Both models detect the same object.
+23,car,matched,0.88,0.559,0.923,Both models detect the same object.
+24,car,matched,0.824,0.557,0.948,Both models detect the same object.
+25,car,matched,0.808,0.549,0.929,Both models detect the same object.
+26,car,matched,0.893,0.526,0.985,Both models detect the same object.
+27,car,matched,0.729,0.514,0.947,Both models detect the same object.
+28,car,matched,0.928,0.509,0.877,Both models detect the same object.
+29,car,matched,0.868,0.507,0.81,Both models detect the same object.
+30,car,matched,0.913,0.492,0.945,Both models detect the same object.
+31,car,model_a_only,0.353,0.488,,Candidate FP for model A or candidate FN for model B.
+32,bus,model_a_only,0,0.468,,Candidate FP for model A or candidate FN for model B.
+33,car,matched,0.897,0.463,0.92,Both models detect the same object.
+34,car,matched,0.857,0.43,0.969,Both models detect the same object.
+35,car,matched,0.895,0.425,0.958,Both models detect the same object.
+36,car,matched,0.664,0.424,0.961,Both models detect the same object.
+37,car,matched,0.818,0.417,0.99,Both models detect the same object.
+38,car,model_a_only,0.453,0.409,,Candidate FP for model A or candidate FN for model B.
+39,car,matched,0.911,0.404,0.506,Both models detect the same object.
+40,car,matched,0.848,0.389,0.919,Both models detect the same object.
+41,truck,matched,0.877,0.386,0.548,Both models detect the same object.
+42,car,matched,0.9,0.365,0.952,Both models detect the same object.
+43,car,matched,0.636,0.323,0.676,Both models detect the same object.
+44,car,model_b_only,0,,0.995,Candidate FP for model B or candidate FN for model A.
+45,car,model_b_only,0,,0.987,Candidate FP for model B or candidate FN for model A.
+46,car,model_b_only,0,,0.94,Candidate FP for model B or candidate FN for model A.
+47,car,model_b_only,0,,0.919,Candidate FP for model B or candidate FN for model A.
+48,car,model_b_only,0,,0.918,Candidate FP for model B or candidate FN for model A.
+49,car,model_b_only,0,,0.888,Candidate FP for model B or candidate FN for model A.
+50,car,model_b_only,0,,0.792,Candidate FP for model B or candidate FN for model A.
+51,car,model_b_only,0,,0.721,Candidate FP for model B or candidate FN for model A.
+52,car,model_b_only,0,,0.702,Candidate FP for model B or candidate FN for model A.
+53,car,model_b_only,0,,0.629,Candidate FP for model B or candidate FN for model A.
+54,car,model_b_only,0,,0.597,Candidate FP for model B or candidate FN for model A.
+55,car,model_b_only,0,,0.582,Candidate FP for model B or candidate FN for model A.
+56,car,model_b_only,0,,0.552,Candidate FP for model B or candidate FN for model A.
+57,car,model_b_only,0,,0.509,Candidate FP for model B or candidate FN for model A.
+58,car,model_b_only,0,,0.465,Candidate FP for model B or candidate FN for model A.
+59,car,model_b_only,0,,0.434,Candidate FP for model B or candidate FN for model A.
+60,car,model_b_only,0,,0.409,Candidate FP for model B or candidate FN for model A.
+61,car,model_b_only,0,,0.408,Candidate FP for model B or candidate FN for model A.
+62,car,model_b_only,0,,0.407,Candidate FP for model B or candidate FN for model A.
+63,car,model_b_only,0,,0.405,Candidate FP for model B or candidate FN for model A.
+64,car,model_b_only,0,,0.399,Candidate FP for model B or candidate FN for model A.
+65,car,model_b_only,0,,0.352,Candidate FP for model B or candidate FN for model A.
+66,car,model_b_only,0,,0.33,Candidate FP for model B or candidate FN for model A.
+67,car,model_b_only,0,,0.319,Candidate FP for model B or candidate FN for model A.
+68,person,model_b_only,0,,0.31,Candidate FP for model B or candidate FN for model A.

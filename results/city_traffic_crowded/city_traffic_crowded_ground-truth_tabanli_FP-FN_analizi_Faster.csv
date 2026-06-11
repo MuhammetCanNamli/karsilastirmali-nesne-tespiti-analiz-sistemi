@@ -1,0 +1,90 @@
+﻿,model,class,status,iou,score
+0,Faster R-CNN,car,TP,0.787,0.996
+1,Faster R-CNN,car,FP,0.369,0.995
+2,Faster R-CNN,car,TP,0.701,0.993
+3,Faster R-CNN,car,TP,0.653,0.992
+4,Faster R-CNN,car,FP,0.399,0.991
+5,Faster R-CNN,car,FP,0.166,0.99
+6,Faster R-CNN,car,FP,0.27,0.988
+7,Faster R-CNN,car,FP,0.466,0.988
+8,Faster R-CNN,car,FP,0.168,0.987
+9,Faster R-CNN,car,FP,0.445,0.985
+10,Faster R-CNN,car,FP,0.357,0.983
+11,Faster R-CNN,car,FP,0.161,0.98
+12,Faster R-CNN,car,TP,0.526,0.979
+13,Faster R-CNN,car,FP,0.285,0.977
+14,Faster R-CNN,car,FP,0.285,0.976
+15,Faster R-CNN,car,FP,0.307,0.976
+16,Faster R-CNN,car,FP,0.341,0.971
+17,Faster R-CNN,car,FP,0.335,0.969
+18,Faster R-CNN,car,FP,0.232,0.966
+19,Faster R-CNN,car,TP,0.679,0.962
+20,Faster R-CNN,car,FP,0.268,0.961
+21,Faster R-CNN,car,FP,0.257,0.961
+22,Faster R-CNN,car,FP,0.465,0.958
+23,Faster R-CNN,car,FP,0.168,0.952
+24,Faster R-CNN,car,FP,0.472,0.948
+25,Faster R-CNN,car,FP,0.425,0.947
+26,Faster R-CNN,car,FP,0.39,0.945
+27,Faster R-CNN,car,FP,0.275,0.941
+28,Faster R-CNN,car,FP,0.497,0.94
+29,Faster R-CNN,car,FP,0.302,0.929
+30,Faster R-CNN,car,FP,0.177,0.923
+31,Faster R-CNN,car,TP,0.642,0.92
+32,Faster R-CNN,car,FP,0.478,0.919
+33,Faster R-CNN,car,FP,0.474,0.919
+34,Faster R-CNN,car,FP,0.288,0.918
+35,Faster R-CNN,car,FP,0.217,0.914
+36,Faster R-CNN,car,FP,0.302,0.888
+37,Faster R-CNN,car,FP,0.403,0.877
+38,Faster R-CNN,car,FP,0.499,0.866
+39,Faster R-CNN,car,FP,0.24,0.841
+40,Faster R-CNN,car,FP,0.414,0.81
+41,Faster R-CNN,car,FP,0.389,0.792
+42,Faster R-CNN,truck,FP,0.397,0.79
+43,Faster R-CNN,car,FP,0.489,0.775
+44,Faster R-CNN,car,FP,0.069,0.721
+45,Faster R-CNN,car,FP,0,0.702
+46,Faster R-CNN,car,FP,0.266,0.676
+47,Faster R-CNN,car,FP,0,0.629
+48,Faster R-CNN,car,FP,0.214,0.597
+49,Faster R-CNN,car,FP,0.342,0.582
+50,Faster R-CNN,car,FP,0.026,0.552
+51,Faster R-CNN,truck,TP,0.593,0.548
+52,Faster R-CNN,car,FP,0.211,0.509
+53,Faster R-CNN,car,FP,0.291,0.506
+54,Faster R-CNN,car,FP,0,0.465
+55,Faster R-CNN,car,TP,0.568,0.434
+56,Faster R-CNN,car,FP,0.345,0.418
+57,Faster R-CNN,car,FP,0.268,0.409
+58,Faster R-CNN,car,FP,0.161,0.408
+59,Faster R-CNN,car,FP,0.033,0.407
+60,Faster R-CNN,car,FP,0.015,0.405
+61,Faster R-CNN,car,FP,0.099,0.399
+62,Faster R-CNN,car,FP,0.271,0.352
+63,Faster R-CNN,car,FP,0.215,0.33
+64,Faster R-CNN,car,FP,0.128,0.319
+65,Faster R-CNN,person,FP,0,0.31
+66,-,car,FN,0,
+67,-,car,FN,0,
+68,-,car,FN,0,
+69,-,truck,FN,0,
+70,-,car,FN,0,
+71,-,car,FN,0,
+72,-,car,FN,0,
+73,-,car,FN,0,
+74,-,car,FN,0,
+75,-,car,FN,0,
+76,-,car,FN,0,
+77,-,car,FN,0,
+78,-,car,FN,0,
+79,-,car,FN,0,
+80,-,car,FN,0,
+81,-,car,FN,0,
+82,-,car,FN,0,
+83,-,car,FN,0,
+84,-,car,FN,0,
+85,-,car,FN,0,
+86,-,car,FN,0,
+87,-,car,FN,0,
+88,-,car,FN,0,

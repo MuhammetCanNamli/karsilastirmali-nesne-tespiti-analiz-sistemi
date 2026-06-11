@@ -1,0 +1,35 @@
+﻿,model,class,status,iou,score
+0,Faster R-CNN,traffic light,FP,0.258,0.991
+1,Faster R-CNN,traffic light,FP,0,0.986
+2,Faster R-CNN,traffic light,FP,0,0.981
+3,Faster R-CNN,car,FP,0,0.976
+4,Faster R-CNN,car,FP,0,0.973
+5,Faster R-CNN,car,FP,0,0.928
+6,Faster R-CNN,car,FP,0,0.915
+7,Faster R-CNN,traffic light,FP,0,0.884
+8,Faster R-CNN,car,FP,0,0.839
+9,Faster R-CNN,traffic light,FP,0,0.797
+10,Faster R-CNN,bus,FP,0,0.74
+11,Faster R-CNN,car,FP,0,0.727
+12,Faster R-CNN,traffic light,FP,0,0.688
+13,Faster R-CNN,car,FP,0,0.503
+14,Faster R-CNN,traffic light,FP,0,0.49
+15,Faster R-CNN,traffic light,FP,0,0.438
+16,Faster R-CNN,car,FP,0,0.413
+17,Faster R-CNN,traffic light,FP,0,0.336
+18,Faster R-CNN,traffic light,FP,0,0.319
+19,-,traffic light,FN,0,
+20,-,traffic light,FN,0,
+21,-,traffic light,FN,0,
+22,-,bus,FN,0,
+23,-,car,FN,0,
+24,-,car,FN,0,
+25,-,car,FN,0,
+26,-,car,FN,0,
+27,-,car,FN,0,
+28,-,car,FN,0,
+29,-,traffic light,FN,0,
+30,-,traffic light,FN,0,
+31,-,traffic light,FN,0,
+32,-,traffic light,FN,0,
+33,-,traffic light,FN,0,

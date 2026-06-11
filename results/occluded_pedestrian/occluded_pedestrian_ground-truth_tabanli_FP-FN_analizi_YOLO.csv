@@ -1,0 +1,35 @@
+﻿,model,class,status,iou,score
+0,YOLOv8n,person,FP,0,0.899
+1,YOLOv8n,person,FP,0,0.673
+2,YOLOv8n,person,FP,0,0.615
+3,YOLOv8n,person,FP,0,0.615
+4,YOLOv8n,person,FP,0,0.582
+5,YOLOv8n,traffic light,FP,0,0.517
+6,YOLOv8n,person,FP,0,0.512
+7,YOLOv8n,person,FP,0,0.468
+8,YOLOv8n,person,FP,0,0.397
+9,YOLOv8n,person,FP,0,0.396
+10,YOLOv8n,person,FP,0,0.378
+11,-,traffic light,FN,0,
+12,-,traffic light,FN,0,
+13,-,traffic light,FN,0,
+14,-,traffic light,FN,0,
+15,-,person,FN,0,
+16,-,person,FN,0,
+17,-,person,FN,0,
+18,-,person,FN,0,
+19,-,person,FN,0,
+20,-,person,FN,0,
+21,-,person,FN,0,
+22,-,person,FN,0,
+23,-,person,FN,0,
+24,-,person,FN,0,
+25,-,person,FN,0,
+26,-,person,FN,0,
+27,-,person,FN,0,
+28,-,person,FN,0,
+29,-,person,FN,0,
+30,-,person,FN,0,
+31,-,person,FN,0,
+32,-,person,FN,0,
+33,-,person,FN,0,

@@ -1,0 +1,20 @@
+﻿,model,class,status,iou,score
+0,YOLOv8n,traffic light,FP,0,0.829
+1,YOLOv8n,traffic light,FP,0,0.695
+2,YOLOv8n,car,FP,0,0.329
+3,YOLOv8n,car,FP,0,0.317
+4,-,traffic light,FN,0,
+5,-,traffic light,FN,0,
+6,-,traffic light,FN,0,
+7,-,bus,FN,0,
+8,-,car,FN,0,
+9,-,car,FN,0,
+10,-,car,FN,0,
+11,-,car,FN,0,
+12,-,car,FN,0,
+13,-,car,FN,0,
+14,-,traffic light,FN,0,
+15,-,traffic light,FN,0,
+16,-,traffic light,FN,0,
+17,-,traffic light,FN,0,
+18,-,traffic light,FN,0,
